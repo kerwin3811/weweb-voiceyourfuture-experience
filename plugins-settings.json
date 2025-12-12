@@ -1,0 +1,103 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "6de01533-64c9-4688-9688-b893da0f2a72",
+        "name": "REST API",
+        "designId": "a3d1ba18-f91e-41fa-8843-04ea707071c8",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "60610cfd-fa28-4fc1-9e72-088b5c667e81": {
+        "id": "3f4101a5-4fdc-4d41-8963-080493897d10",
+        "name": "Calendly",
+        "designId": "a3d1ba18-f91e-41fa-8843-04ea707071c8",
+        "pluginId": "60610cfd-fa28-4fc1-9e72-088b5c667e81",
+        "publicData": {}
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "8642eb5c-41a2-451d-b174-dc90999dbda8",
+        "name": "Date",
+        "designId": "a3d1ba18-f91e-41fa-8843-04ea707071c8",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {
+            "favoriteFormat": "D, MM, YYYY h:mm A"
+        }
+    },
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "99ad91a7-e9fb-4eec-b891-f71d820fd97b",
+        "name": "Charts",
+        "designId": "a3d1ba18-f91e-41fa-8843-04ea707071c8",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "d66a250d-8468-469e-ad33-ee028f632398": {
+        "id": "e75367af-77e9-4886-9464-561ecf917e47",
+        "name": "OpenAI",
+        "designId": "a3d1ba18-f91e-41fa-8843-04ea707071c8",
+        "pluginId": "d66a250d-8468-469e-ad33-ee028f632398",
+        "publicData": {}
+    },
+    "cabb43dd-6161-4140-8ebf-03b6fb045a0b": {
+        "id": "19c34888-c4f2-4934-be9e-0f484610f900",
+        "name": "Google",
+        "designId": "a3d1ba18-f91e-41fa-8843-04ea707071c8",
+        "pluginId": "cabb43dd-6161-4140-8ebf-03b6fb045a0b",
+        "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "3fe1ccf9-616a-45a7-89e8-f95570d1083d",
+        "name": "Supabase Auth",
+        "designId": "a3d1ba18-f91e-41fa-8843-04ea707071c8",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB5cHN2ZGFzYmlsamNzZ2xrc2JnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjAzNDkwMTAsImV4cCI6MjA3NTkyNTAxMH0.V1xSyv_bxYAqnDz86eLCyrnkvPf42aN6D6s6kb0HWpY",
+            "projectUrl": "https://pypsvdasbiljcsglksbg.supabase.co",
+            "customDomain": "",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB5cHN2ZGFzYmlsamNzZ2xrc2JnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjAzNDkwMTAsImV4cCI6MjA3NTkyNTAxMH0.V1xSyv_bxYAqnDz86eLCyrnkvPf42aN6D6s6kb0HWpY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://pypsvdasbiljcsglksbg.supabase.co",
+                    "customDomain": "",
+                    "baseProjectRef": "pypsvdasbiljcsglksbg"
+                }
+            }
+        }
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "367cb56c-975c-40e5-98d6-cad280d7661d",
+        "name": "Supabase",
+        "designId": "a3d1ba18-f91e-41fa-8843-04ea707071c8",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB5cHN2ZGFzYmlsamNzZ2xrc2JnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjAzNDkwMTAsImV4cCI6MjA3NTkyNTAxMH0.V1xSyv_bxYAqnDz86eLCyrnkvPf42aN6D6s6kb0HWpY",
+            "projectUrl": "https://pypsvdasbiljcsglksbg.supabase.co",
+            "customDomain": "",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB5cHN2ZGFzYmlsamNzZ2xrc2JnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjAzNDkwMTAsImV4cCI6MjA3NTkyNTAxMH0.V1xSyv_bxYAqnDz86eLCyrnkvPf42aN6D6s6kb0HWpY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://pypsvdasbiljcsglksbg.supabase.co",
+                    "customDomain": "",
+                    "baseProjectRef": "pypsvdasbiljcsglksbg"
+                }
+            },
+            "realtimeTables": {
+                "teams": true,
+                "compassen": true,
+                "gebruikers": true,
+                "job_scores": true,
+                "team_leden": true,
+                "organisaties": true,
+                "emotion_scores": true,
+                "leerstijlen_nl": true,
+                "enneagramtypes_nl": true,
+                "organisatie_leden": true,
+                "werkomgevingen_nl": true,
+                "competentie_scores": true,
+                "voiceenergy_scores": true
+            }
+        }
+    }
+}
